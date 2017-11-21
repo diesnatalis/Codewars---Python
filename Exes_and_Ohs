@@ -1,0 +1,6 @@
+def xo(s):
+    if s.count("x")+s.count("X")==s.count("o")+s.count("O"):
+        return True
+        
+        
+# Python’s boolean constants are capitalized: "True" and "False".
